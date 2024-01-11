@@ -4,6 +4,7 @@ list_of_classes.py
 1/10/2024
 This program asks the user how many classes they are taking and the name of each of their classes. The class names are
 stored in a list and then printed with each class name on a separate line.
+
 """
 
 
