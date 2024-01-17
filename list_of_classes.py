@@ -34,8 +34,8 @@ def inputs():
 def outputs(class_list):
     # for loop to print each class in the list
     print("Your class names are: ")
-    for c in range(len(class_list)):  # 0 up to but not including length of class_list value
-        print(class_list[c])  # use index number (c) to get items from list and print them
+    for c in class_list:
+        print(c)
 
 
 main()  # call main function to start program
